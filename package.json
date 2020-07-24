@@ -1,6 +1,6 @@
 {
   "name": "@mengjing/stylelint-config",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "梦鲸前端团队 - stylelint 规范",
   "main": "index.js",
   "scripts": {
